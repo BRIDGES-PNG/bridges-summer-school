@@ -1,6 +1,10 @@
 # bridges-summer-schoold
 - Name: David, GitHubf Account: jdavid675
 - Name: Youmei, GitHub Account: youmei-code
+- Name: Herbert, GitHub Account: Herbiweirdo
+- Name: Youmei, GitHub Account: youmei-code,
+- Name: Melissa, GitHub account: Melirose-Paul
+- Name: Emma Amini, Github Account: roseanneamini44-ui
 - Name: Ezra, GitHub Account: EzraMulaga
 - Name: Johannes, GitHub Account: nessktn
 - Name: Bridges, Github Account: test
