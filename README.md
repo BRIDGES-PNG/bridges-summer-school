@@ -1,4 +1,5 @@
-# bridges-summer-school
+# bridges-summer-schoold
+- Name: David, GitHubf Account: jdavid675
 - Name: Youmei, GitHub Account: youmei-code
 - Name: Ezra, GitHub Account: EzraMulaga
 - Name: Johannes, GitHub Account: nessktn
